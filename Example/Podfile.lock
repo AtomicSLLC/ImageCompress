@@ -1,0 +1,16 @@
+PODS:
+  - ImageCompress (0.1.0)
+
+DEPENDENCIES:
+  - ImageCompress (from `../`)
+
+EXTERNAL SOURCES:
+  ImageCompress:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  ImageCompress: 06edbc418d6a518767b06efaf75df71b4b7b83c6
+
+PODFILE CHECKSUM: 512ba64f86c61fd0901fd82022c1e36cc47df714
+
+COCOAPODS: 1.5.3
